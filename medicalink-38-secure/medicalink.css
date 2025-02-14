@@ -134,7 +134,7 @@ body {
  text-decoration: none;
  }
     
-    
+
     
 
               /* Style the container */
@@ -142,7 +142,7 @@ body {
             width: 400px; /* Adjust the width as needed */
             height: 300px; /* Set the desired height */
             overflow: auto; /* Add scroll bar when content exceeds container height */
-            background-color: transparent; /* White background */
+            background-color: white; /* White background */
             border: 0px solid skyblue; /* Optional border for visual clarity */
             padding: 3px; /* Add some padding for readability */
         }
@@ -163,7 +163,7 @@ body {
             width: 400px; /* Adjust the width as needed */
             height: 300px; /* Set the desired height */
             overflow: auto; /* Add scroll bar when content exceeds container height */
-            background-color: transparent; /* White background */
+            background-color: white; /* White background */
             border: 1px solid #ccc; /* Optional border for visual clarity */
             padding: 3px; /* Add some padding for readability */
         }
